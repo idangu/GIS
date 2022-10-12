@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790457632693",
+    "firebase_url": "https://gisproject-b2f5d-default-rtdb.firebaseio.com",
+    "project_id": "gisproject-b2f5d",
+    "storage_bucket": "gisproject-b2f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790457632693:android:c914f7a8ef4aa2a083fbfc",
+        "android_client_info": {
+          "package_name": "com.example.shelterholonandrishonlezion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790457632693-f4gnn7v8mip74h2usflugt73a0l5at78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFR1CMHR4Y6X3u6NFxMJDT998BybTOmHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790457632693-f4gnn7v8mip74h2usflugt73a0l5at78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
